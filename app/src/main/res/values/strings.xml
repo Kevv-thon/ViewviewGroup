@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Viewview</string>
+    <string name="content_text">jodoh adalah orang yang cocok menjadi suami atau istri atau pasangan hidup.
+Melihat kecocokan seseorang untuk menjadi suami atau istri dapat dipertimbangkan dari berbagai hal.
+Bisa dari sifat, pemikiran, visi misi yang sama, maupun hal yang lain.</string>
+    <string name="content_specs_display">bucin adalah budak cinta. Istilah ini biasanya digunakan
+        untuk menyebut seseorang yang begitu larut dalam kisah asmaranya. Jika dilihat dari
+        asal singkatannya, "budak" berarti hamba atau jongos dan "cinta" berarti perasaan suka
+        sekali atau sayang benar.</string>
+    <string name="content_specs_size">Waifu adalah sebuah karakter fiksi perempuan yang memiliki hubungan khusus atau basis penggemar. Karakter-karakter tersebut sering kali merupakan bagian dari anime, manga atau permainan video Jepang.
+        Terkadang, karakter-karakter tersebut juga digambarkan pada guling khusus atau barang lain.</string>
+    <string name="content_specs_battery">Stop it! Get some help</string>
+    <string name="dummy_photo">6 Photos</string>
+    <string name="dummy_value">$696</string>
+    <string name="stock">Stock hanya 6 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Ishihara Saki</string>
+    <string name="buy">Beli</string>
+</resources>
